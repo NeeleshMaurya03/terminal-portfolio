@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom Terminal Styling */
+body {
+  @apply bg-black text-green-400 font-mono;
+}
+
+/* Hide Scrollbar but Keep Scrolling */
+.terminal-window {
+  overflow-y: auto;
+  scrollbar-width: none; /* ✅ Hides scrollbar in Firefox */
+  -ms-overflow-style: none; /* ✅ Hides scrollbar in IE/Edge */
+}
+
+.terminal-window::-webkit-scrollbar {
+  display: none; /* ✅ Hides scrollbar in Chrome, Safari */
+}

@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom Terminal Styling */
+body {
+  @apply bg-black text-green-400 font-mono;
+}
+
+/* Hide Scrollbar */
+::-webkit-scrollbar {
+  display: none; /* ✅ Hides scrollbar for Chrome, Safari, Edge */
+}
+::-webkit-scrollbar-thumb {
+  display: none;
+}
+::-webkit-scrollbar-track {
+  display: none;
+}
+
+.terminal-container {
+  @apply w-full h-screen flex items-center justify-center p-4;
+}
+
+.terminal-window {
+  @apply w-full h-full max-w-5xl border border-gray-600 rounded-lg shadow-lg p-4 overflow-y-auto;
+  scrollbar-width: none; /* ✅ Hides scrollbar for Firefox */
+  -ms-overflow-style: none; /* ✅ Hides scrollbar for Internet Explorer/Edge */
+}
