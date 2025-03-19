@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 🖥️ Terminal Portfolio - Neelesh Maurya
 
 Welcome to my **interactive terminal-based portfolio**! This project simulates a command-line interface to showcase my skills, experience, and projects.
@@ -64,7 +64,7 @@ Email: neeleshmaurya2003@gmail.com
 GitHub: github.com/NeeleshMaurya03
 LinkedIn: linkedin.com/in/neeleshmaurya
 
-##⭐ If you like this project, don't forget to give it a star! ⭐
+## ⭐ If you like this project, don't forget to give it a star! ⭐
 =======
 
 
