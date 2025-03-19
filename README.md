@@ -31,24 +31,25 @@ Welcome to my **interactive terminal-based portfolio**! This project simulates a
 
 To run this project locally:
 
-### 1️⃣ Clone the repository:
-```sh
+ 1️⃣ Clone the repository:
+```
 git clone https://github.com/NeeleshMaurya03/terminal-portfolio.git
+```
 2️⃣ Navigate into the project folder:
-sh
-Copy code
+```
 cd terminal-portfolio
+```
 3️⃣ Install dependencies:
-sh
-Copy code
+```
 npm install
+```
 4️⃣ Start the development server:
-sh
-Copy code
+```
 npm run dev
+```
 Now, open http://localhost:5173/ in your browser to see the terminal in action! 🚀
 
-📝 Contributing
+## 📝 Contributing
 If you’d like to contribute:
 
 Fork the repository 🍴
@@ -57,20 +58,15 @@ Create a feature branch (git checkout -b feature-name)
 Make your changes & commit (git commit -m "Added a new feature")
 Push to GitHub (git push origin feature-name)
 Create a Pull Request 🚀
-📬 Contact Me
+
+## 📬 Contact Me
 Email: neeleshmaurya2003@gmail.com
 GitHub: github.com/NeeleshMaurya03
 LinkedIn: linkedin.com/in/neeleshmaurya
-⭐ If you like this project, don't forget to give it a star! ⭐
+
+##⭐ If you like this project, don't forget to give it a star! ⭐
 =======
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 ## Expanding the ESLint configuration
 
